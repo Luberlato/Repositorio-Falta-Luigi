@@ -4446,11 +4446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
+      "projectUniqueName": "C:\\Users\\46336142825\\Desktop\\VH Burguer\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
       "projectName": "VHBurguer",
-      "projectPath": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
+      "projectPath": "C:\\Users\\46336142825\\Desktop\\VH Burguer\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
       "packagesPath": "C:\\Users\\46336142825\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\obj\\",
+      "outputPath": "C:\\Users\\46336142825\\Desktop\\VH Burguer\\VHBurguer\\VHBurguer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

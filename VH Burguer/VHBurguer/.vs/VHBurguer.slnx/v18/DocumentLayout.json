@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\",
+  "WorkspaceRootPath": "C:\\Users\\46336142825\\Desktop\\Luigi programa\\VH Burguer\\VHBurguer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{604F98E2-5EA6-9F16-F7A8-5855067008A3}|VHBurguer\\VHBurguer.csproj|c:\\users\\46336142825\\source\\repos\\vhburguer\\vhburguer\\contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{604F98E2-5EA6-9F16-F7A8-5855067008A3}|VHBurguer\\VHBurguer.csproj|c:\\users\\46336142825\\desktop\\luigi programa\\vh burguer\\vhburguer\\vhburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604F98E2-5EA6-9F16-F7A8-5855067008A3}|VHBurguer\\VHBurguer.csproj|solutionrelative:vhburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604F98E2-5EA6-9F16-F7A8-5855067008A3}|VHBurguer\\VHBurguer.csproj|c:\\users\\46336142825\\desktop\\luigi programa\\vh burguer\\vhburguer\\vhburguer\\contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{604F98E2-5EA6-9F16-F7A8-5855067008A3}|VHBurguer\\VHBurguer.csproj|solutionrelative:vhburguer\\contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VH_BurguerContext.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
-              "RelativeDocumentMoniker": "VHBurguer\\Contexts\\VH_BurguerContext.cs",
-              "ToolTip": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
-              "RelativeToolTip": "VHBurguer\\Contexts\\VH_BurguerContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\Luigi programa\\VH Burguer\\VHBurguer\\VHBurguer\\Program.cs",
+              "RelativeDocumentMoniker": "VHBurguer\\Program.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\Luigi programa\\VH Burguer\\VHBurguer\\VHBurguer\\Program.cs",
+              "RelativeToolTip": "VHBurguer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T13:59:38.188Z",
+              "WhenOpened": "2026-02-10T14:10:33.351Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VH_BurguerContext.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\Luigi programa\\VH Burguer\\VHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeDocumentMoniker": "VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\Luigi programa\\VH Burguer\\VHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeToolTip": "VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:59:38.188Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fuFri4t9ng=",
+  "dgSpecHash": "N9yabeZDe+8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\46336142825\\source\\repos\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
+  "projectFilePath": "C:\\Users\\46336142825\\Desktop\\VH Burguer\\VHBurguer\\VHBurguer\\VHBurguer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46336142825\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\46336142825\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
